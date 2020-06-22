@@ -1,0 +1,21 @@
+@font-face {
+    font-family: ProximaNova-Bold;
+    src: url(/fonts/ProximaNova-Bold.ttf);
+}
+
+@font-face {
+    font-family: ProximaNova;
+    src: url(/fonts/ProximaNova-Regular.ttf);
+}
+
+
+.navbar-brand {
+    font-family: ProximaNova-Bold;
+}
+
+.navbar-nav {
+    font-family: ProximaNova;
+}
+a {
+    color: #358aff;
+}
